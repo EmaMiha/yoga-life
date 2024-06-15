@@ -20,6 +20,20 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+h1,
+h2,
+h3 {
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: lightcyan;
+}
+
+
+
+
+
+
 /* Header */
 header {
     background-color: black;
@@ -109,6 +123,23 @@ main {
     position: relative;
 }
 
+#cover-text {
+    width: 80%;
+    bottom: 30px;
+    font-size: 130%;
+    position: absolute;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(159, 153, 153, 0.5);
+}
+
+#cover-text>h2,
+#cover-text>h3 {
+    color: darkgreen;
+}
+
+
 
 /* Footer */
 footer {
@@ -167,6 +198,12 @@ footer {
      /* Main content */
      main {
         margin-top: 79px;
+    }
+
+    /* Studio image */
+    #cover-text {
+        width: 300px;
+        right: 50px;
     }
 
 }
