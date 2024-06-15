@@ -31,9 +31,6 @@ h3 {
 
 
 
-
-
-
 /* Header */
 header {
     background-color: black;
@@ -45,7 +42,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-
 }
 
 header a {
@@ -146,25 +142,20 @@ main {
 
     width: 90%;
     margin: 20px auto;
-
 }
 
 h3 {
     width: 90%;
     margin: 20px auto;
-
-
 }
 
 p {
     padding: 0 20px;
 }
 
-
 /* Footer */
 footer {
     background-color: black;
-
 }
 
 #social-networks {
@@ -188,8 +179,6 @@ footer {
         column-gap: 0;
     }
 }
-
-
    
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -201,7 +190,6 @@ footer {
         position: relative;
         padding-right: 1rem;
         width: fit-content;
-
     }
 
     #menu {
