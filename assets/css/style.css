@@ -23,6 +23,12 @@ body {
 /* Header */
 header {
     background-color: black;
+    position: fixed;
+    padding: 0 1rem;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px white;
+    
 
 
 }
