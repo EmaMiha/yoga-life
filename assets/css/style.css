@@ -44,6 +44,23 @@ h1 {
     letter-spacing: 2px;
 }
 
+
+
+#menu {
+
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid white;
+}
+
+
 /* Main content */
 main {
     background-color: rgb(88, 85, 85);
