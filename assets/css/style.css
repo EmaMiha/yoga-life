@@ -109,5 +109,31 @@ footer {
 
 }
    
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    nav {
+        display: block;
+        box-shadow: none;
+        position: relative;
+        padding-right: 1rem;
+        width: fit-content;
+
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+    
 
 
+}
