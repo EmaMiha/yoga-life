@@ -140,6 +140,26 @@ main {
 }
 
 
+/* Reasons section */
+
+#reasons {
+
+    width: 90%;
+    margin: 20px auto;
+
+}
+
+h3 {
+    width: 90%;
+    margin: 20px auto;
+
+
+}
+
+p {
+    padding: 0 20px;
+}
+
 
 /* Footer */
 footer {
@@ -161,6 +181,13 @@ footer {
     color: white;
 }
 
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 
 
    
