@@ -59,10 +59,20 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 
 ## Testing
 
- ▫︎ I have confirmed that sign up form works.
+▫︎ I have confirmed that sign up form works.
 
 
  ![Yoga life](/assets/images/Form.png)
+
+
+▫︎ CSS did not show any erros running the official W3C CSS Validator
+
+▫︎ HTML did not show any errors running the official W3C HTML Validator.
+
+▫︎ I have also tested the website through the Lighthouse in devtools:
+
+![Yoga life](/assets/images/TestingLighthouse.png)
+
 
 
 
