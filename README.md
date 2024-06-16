@@ -3,7 +3,7 @@
 Yoga life website is a page for meditation and yoga lovers who would love to join our studio. They would be able to see our home page, gallery section and sign up form.
 
 
-![Yoga life](/assets/images/Yoga-life.png)
+![Yoga life](/assets/images/YL.png)
 
 
 
@@ -13,7 +13,7 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 
 ## Features
 
-▪︎ Navigation
+##### ▪︎ Navigation
 
      ▫︎ There are navigation links to the right: Home, Gallery, Sign up which link to different sections of the same page.
 
@@ -29,7 +29,7 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 
 
 
-▪︎ Home page
+#### ▪︎ Home page
 
     ▫︎ On the home page user can be informed about the magical results of yoga and meditation: Strengthen the immune system, Release negative energy, Reducing the stress.
 
@@ -47,14 +47,22 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 ![Yoga life](/assets/images/Studio.png)
 
 
-▪︎ Sign up
+#### ▪︎ Sign up
 
     ▫︎ The Sign up form gives user opportunity to join our Yoga studio.
 
-    ▫︎ The form collects the first and last name and an email.
+    ▫︎ The form collects the first, last name and an email.
 
 
 ![Yoga life](/assets/images/Sign-up.png)
+
+
+## Testing
+
+ ▫︎ I have confirmed that sign up form works.
+
+
+ ![Yoga life](/assets/images/Form.png)
 
 
 
