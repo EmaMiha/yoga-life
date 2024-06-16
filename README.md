@@ -35,7 +35,7 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 
 
 
-    ![Yoga life](/assets/images/Y.png)
+![Yoga life](/assets/images/Y.png)
 
 
 
@@ -44,6 +44,19 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
     ▫︎ The gallery page shows the images of our studio and group classes.
 
 
-    ![Yoga life](/assets/images/Studio.png)
+![Yoga life](/assets/images/Studio.png)
 
-    
+
+▪︎ Sign up
+
+    ▫︎ The Sign up form gives user opportunity to join our Yoga studio.
+
+    ▫︎ The form collects the first and last name and an email.
+
+
+![Yoga life](/assets/images/Sign-up.png)
+
+
+
+
+
