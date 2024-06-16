@@ -35,12 +35,15 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 
 
 
-![Yoga life](/assets/images/Y.png)
+    ![Yoga life](/assets/images/Y.png)
 
 
 
 ▪︎ Gallery
 
     ▫︎ The gallery page shows the images of our studio and group classes.
+
+
+    ![Yoga life](/assets/images/Studio.png)
 
     
