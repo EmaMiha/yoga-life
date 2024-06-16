@@ -13,11 +13,12 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 
 ## Features
 
-##### ▪︎ Navigation
+▪︎ Navigation
 
-     ▫︎ There are navigation links to the right: Home, Gallery, Sign up which link to different sections of the same page.
+    ▫︎ There are navigation links to the right: 
+     Home, Gallery, Sign up which link to different sections of the same page.
 
-     ▫︎ On the bottom are social media links for Facebook and Instagram.
+    ▫︎ On the bottom are social media links for Facebook and Instagram.
 
 
     
@@ -29,9 +30,11 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 
 
 
-#### ▪︎ Home page
+▪︎ Home page
 
-    ▫︎ On the home page user can be informed about the magical results of yoga and meditation: Strengthen the immune system, Release negative energy, Reducing the stress.
+    ▫︎ On the home page user can be informed about the magical results 
+    of yoga and meditation as strengthen the immune system,
+    release negative energy, reducing the stress.
 
 
 
@@ -47,7 +50,7 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 ![Yoga life](/assets/images/Studio.png)
 
 
-#### ▪︎ Sign up
+▪︎ Sign up
 
     ▫︎ The Sign up form gives user opportunity to join our Yoga studio.
 
@@ -72,6 +75,20 @@ Yoga life website is a page for meditation and yoga lovers who would love to joi
 ▫︎ I have also tested the website through the Lighthouse in devtools:
 
 ![Yoga life](/assets/images/TestingLighthouse.png)
+
+
+## Deployment
+
+▫︎ The website was deployed on the GitHub pages. 
+▫︎ The live link can be found here:
+
+https://emamiha.github.io/yoga-life/
+
+
+## Credits
+
+The images were taken from Pexels.
+
 
 
 
